@@ -119,7 +119,7 @@ export default function Index() {
       <nav className="w-16 bg-[hsl(222,60%,22%)] flex flex-col items-center py-5 gap-1 flex-shrink-0">
         <div className="mb-6 flex flex-col items-center gap-1">
           <div className="w-8 h-8 bg-white rounded-lg flex items-center justify-center">
-            <span className="text-[hsl(222,60%,22%)] font-mono font-semibold text-xs">sp</span>
+            <span className="text-[hsl(222,60%,22%)] font-mono font-semibold text-xs">sw</span>
           </div>
         </div>
 
